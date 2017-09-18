@@ -9,7 +9,7 @@ gitbook地址：[Python Chinese documents](https://ictar.gitbooks.io/python-doc-
 2. 如果不能找到，会给出自己翻的中文版本。
 3. 已翻译文档会给出repository中的链接，未翻译则给出原文档链接
 
-欢迎抓虫~~sssssss
+欢迎抓虫~~
 
 # 目录说明
 - [Python Common](./Python%20Common 'python 常规文档') python 常规文档
